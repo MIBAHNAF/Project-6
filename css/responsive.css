@@ -1,0 +1,268 @@
+@media(min-width:992px) and (max-width:1199.98px){
+    .header_icon ul li {
+        margin: 10px 8px;
+    }
+    .img1{
+        width: 30%;
+        height: 100%;
+       
+    }
+    
+    .p-layer{
+        width: 70%;
+        height: 100%;
+    
+    }
+
+    .lastest-news-1{
+        width: 100%;
+        height: 150px;
+    }
+
+    .sort_select select {
+        margin-right: 0px;
+    }
+
+    .blog_page .black-hover i {
+        margin-top: 90px;
+        margin-left: 100px;
+    }
+
+    .blog_content {
+       
+        padding: 150px 15px 15px 15px;
+       
+    }
+
+    .blog_page .blog_content {
+       
+        padding: 100px 15px 15px 15px;
+       
+    }
+}
+
+@media(min-width:1200px) and (max-width:1399.98px){
+    .blog_slider .slick-center .blog_img{
+        transform: translateY(-200px);
+       
+    }
+
+    .blog_page .black-hover i {
+        margin-top: 120px;
+        margin-left: 120px;
+    }
+
+    .blog_content {
+       
+        padding: 50px 15px 15px 15px;
+       
+    }
+
+    .blog_page .blog_content{
+     
+        padding: 100px 15px 15px 15px;
+        
+        
+    }
+}
+@media(min-width:768px) and (max-width:991.98px){
+    .header_icon ul li {
+        margin: 10px 5px;
+    }
+    .banner_1 {
+        height: 600px;
+        
+    }
+
+    .img1{
+        width: 40%;
+        height: 100%;
+       
+    }
+    
+    .p-layer{
+        width: 60%;
+        height: 100%;
+    
+    }
+
+    .lastest-news-1{
+        width: 100%;
+        height: 150px;
+    }
+
+
+    .sort_select select {
+        
+        margin-bottom: 10px;
+    }
+
+
+    .blog_page .black-hover i {
+        margin-top: 250px;
+        margin-left: 280px;
+    }
+
+
+    .blog_content {
+       
+        padding: 400px 15px 15px 15px;
+       
+    }
+
+    .blog_page .blog_content{
+     
+        padding: 100px 15px 15px 15px;
+        
+        
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+
+    .banner_1 {
+        height: 500px;
+        
+    }
+
+    .img1{
+        width: 50%;
+        height: 100%;
+       
+    }
+    
+    .p-layer{
+        width: 50%;
+        height: 100%;
+    
+    }
+
+    .lastest-news-1{
+        width: 100%;
+        height: 160px;
+    }
+
+    .sort_icon {
+       
+        margin-bottom: 10px;
+    }
+
+
+    .blog_page .black-hover i {
+        margin-top: 180px;
+        margin-left: 200px;
+    }
+
+    .blog_content {
+       
+        padding: 200px 15px 15px 15px;
+       
+    }
+
+    .blog_page.blog_content {
+       
+        padding: 100px 15px 15px 15px;
+       
+    }
+}
+@media (max-width:767.98px){ 
+
+    .c-info{
+       
+        border-right:none;
+        border-bottom: 1px solid #353535;
+        padding: 0;
+        margin-bottom: 20px;
+    }
+
+    .last{
+        border-bottom: none;
+    }
+
+
+    .contact_form_col {
+        background: none;
+       
+    }
+
+
+    .navbar-nav{
+        border-bottom: 1px solid #161616;
+        border-left: 1px solid #161616;
+        border-right: 1px solid #161616;
+        text-align: center;
+    }
+
+}
+@media (max-width:575.98px){
+    .header_address{
+        text-align: center;
+    }
+    .header_welcome {
+        clip-path: none;
+    }
+    .padding_x_none{
+        padding: 0px;
+    }
+    .header_icon ul li {
+        margin: 10px 10px;
+    }
+
+    .banner_1 {
+        height: 400px;
+        
+    }
+
+    .blog_slider .slick-center .blog_img{
+        transform: translateY(-270px);
+       
+    }
+
+    .img1{
+        width: 40%;
+        height: 100%;
+       
+    }
+    
+    .p-layer{
+        width: 60%;
+        height: 100%;
+    
+    }
+    .lastest-news-1{
+        width: 100%;
+        height: 150px;
+    }
+
+    .sort_icon {
+        
+        margin-bottom: 10px;
+    }
+    .sort_select select {
+       
+        margin-right: 0;
+    }
+
+    .blog_page .black-hover i {
+        margin-top: 90px;
+        margin-left: 100px;
+    }
+
+    .blog_content {
+        
+        padding: 0px 15px 0px 15px;
+        
+    }
+    .blog_page .blog_content{
+     
+        padding: 100px 15px 15px 15px;
+        
+        
+    }
+
+    .blog_slider .slick-center .blog_content {
+        transform: translateY(0px);
+        
+    }
+    
+    
+}
